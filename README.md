@@ -1,5 +1,6 @@
 - 👋 I'm Amir, 18 years old from Kosovo.
-- 👀 I’m interested in web development, software development & game development. I enjoy making music, coding and playing games.
+- 👀 I’m interested in web development, software development & game development. 
+- 👀 I enjoy making music, coding and playing games.
 - 🌱 I’m currently learning C#.
 
 <!---
