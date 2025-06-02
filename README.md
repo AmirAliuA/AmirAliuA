@@ -12,10 +12,10 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on [nasa-apod-api](https://github.com/AmirAliuA/nasa-apod-api) — an Astronomy Picture of the Day explorer
-- 🌱 I’m learning advanced backend concepts & cybersecurity practices
-- 🧩 I enjoy building tools, solving problems, and reverse engineering software
-- 🎮 On the side, I love working on game development projects (Unity / C#)
+🔭 Currently building [NASA APOD Explorer](https://github.com/AmirAliuA/nasa-apod-api) — explore Astronomy Picture of the Day entries dating back to 1995  
+🌱 Deepening my knowledge in backend development and cybersecurity practices  
+🧩 I love building practical tools, reverse engineering software, and diving into problem-solving  
+🎮 Passionate about game dev on the side — mostly working in Unity with C#
 
 ---
 
