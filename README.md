@@ -33,20 +33,3 @@
   <img src="https://img.shields.io/badge/-Tailwind-06b6d4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-shadcn/ui-black?logo=tailwindcss&logoColor=white" />
 </p>
-
----
-
-<h3 align="center">📌 Featured Projects</h3>
-
-<p align="center">Some of my open-source work:</p>
-
-<p align="left">
-  
-- 🔭 [**NASA APOD Explorer**](https://github.com/AmirAliuA/nasa-apod-api) — Discover NASA’s Astronomy Picture of the Day, dating back to 1995  
-- 🟨 [**Steam Kosovo Flag Fix**](https://github.com/AmirAliuA/steam-kosovo-flag) — A browser extension that patches the missing Kosovo flag on Steam profiles  
-- 🏦 [**Banking App**](https://github.com/AmirAliuA/banking-app) — A simple interpreter-pattern-based C# banking app  
-- 👾 [**DOOM Unity Clone**](https://github.com/AmirAliuA/doom-unity) — Remake of the original DOOM in Unity  
-- 🧠 [**AI Language Detection**](https://github.com/AmirAliuA/ai-language-detection) — Naive Bayes classifier for detecting 22+ languages  
-- 👻 [**Snapchat Username Checker**](https://github.com/AmirAliuA/snapchat-username) — Tool to check if a Snapchat username is taken  
-
-</p>
