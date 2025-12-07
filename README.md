@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Amir</h2>
 <p align="center">
-A full-stack developer from Kosovo with a focus on creating fast, reliable, and practical solutions across web, software, and game development. I enjoy working end-to-end — from designing intuitive UIs to building solid backend systems.<br><br>
-I’m also diving deeper into cybersecurity and networking, constantly sharpening my understanding of how systems work under the hood and how to secure them.
+A full-stack developer from Kosovo with a passion for building things across web, software, and game development — and a growing curiosity for cybersecurity and networking.
 </p>
 
 <p align="center">
