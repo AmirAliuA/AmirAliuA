@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Amir</h2>
 <p align="center">
-A full-stack developer from Kosovo with a passion for building things across web, software, and game development — and a growing curiosity for cybersecurity and networking.
+A full-stack developer from Kosovo with a passion for building things across web, software, and game development with a growing curiosity for cybersecurity and networking.
 </p>
 
 <p align="center">
