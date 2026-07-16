@@ -10,4 +10,4 @@ Cybersecurity Enthusiast, Security Researcher, Full Stack Web Developer.
 - CVE-2026-51406
 - CVE-2026-51407
 
-[cool stuff here](https://amiraliu.vercel.app/)
+[[cool stuff here]](https://amiraliu.vercel.app/)
