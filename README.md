@@ -4,7 +4,7 @@ Security Researcher - Vulnerability Research · Web/IoT Security · Full-Stack D
 
 16x CVE holder across embedded/IoT devices and open-source CMS platforms.
 
-**Fullhan AJL30PG0803 IP Camera** - [writeup](https://amiraliu.vercel.app/blog/breaking-into-my-own-camera)
+**Fullhan AJL30PG0803 IP Camera** [(writeup)](https://amiraliu.vercel.app/blog/breaking-into-my-own-camera)
 - [CVE-2026-51402](https://nvd.nist.gov/vuln/detail/CVE-2026-51402)
 - [CVE-2026-51403](https://nvd.nist.gov/vuln/detail/CVE-2026-51403)
 - [CVE-2026-51404](https://nvd.nist.gov/vuln/detail/CVE-2026-51404)
